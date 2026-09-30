@@ -74,3 +74,4 @@ print(report_line)
 print(f"Средний балл: {avg_grade:.2f}")
 print(f"Итоговая оценка: {final_grade}")
 print("=" * 40)
+# Тестовое изменение после клонирования - проверка
